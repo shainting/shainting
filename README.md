@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Shain
+- 🌱 I’m currently learning Node/JavaScript
